@@ -2,7 +2,7 @@
 ## StoreShoppy_Assignement
 ## Website Link: https://jocular-pixie-4df05c.netlify.app/
 ### Overview
-This is assignment given by StoreShoppy Online Services Private Limited.
+The assignment given by StoreShoppy Online Services Private Limited.
 
 ### Techonology
 - React.js
