@@ -1,6 +1,8 @@
 
 ## StoreShoppy_Assignement
 ## Website Link: https://jocular-pixie-4df05c.netlify.app/
+
+## Note: Open this project in google
 ### Overview
 The assignment given by StoreShoppy Online Services Private Limited.
 
