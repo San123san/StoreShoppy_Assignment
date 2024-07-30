@@ -1,8 +1,14 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## StoreShoppy_Assignement
+## Website Link: https://jocular-pixie-4df05c.netlify.app/
+### Overview
+This is assignment given by StoreShoppy Online Services Private Limited.
 
-Currently, two official plugins are available:
+### Techonology
+- React.js
+- Tailwind
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### How to install and run
+1. Clone the repo.
+2. Install necessary dependecies.
+3. On terminal run: npm run dev
